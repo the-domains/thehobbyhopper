@@ -1,7 +1,7 @@
 name: thehobbyhopper
 favicon: null
-layout_spectrum: 0.48430026695132256
-typography_spectrum: 0.9640828808769584
+layout_spectrum: 0.63294
+typography_spectrum: 0.49066
 title: The Hobby Hopper
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.510239474941045
   lightness: 0.8680556588806212
   saturation: 0.9374954211525619
-  rhythmicContrast: 0.08869738620705903
+  rhythmicContrast: 0
 purpose: []
